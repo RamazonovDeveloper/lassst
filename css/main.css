@@ -1,0 +1,11 @@
+.container{
+    max-width: 1390px;
+    /* width: 1390px; */
+    padding: 0 auto;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
